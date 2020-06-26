@@ -1,9 +1,9 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 const Layout = styled.div`
   min-height: 100vh;
   padding-top: 92px;
-`
+`;
 
 export const Fixed = styled.div`
   position: fixed;
@@ -12,10 +12,10 @@ export const Fixed = styled.div`
   width: 100%;
   z-index: 100;
   overflow: hidden;
-`
+`;
 
 export const Main = styled.main`
   padding: 15px;
-`
+`;
 
-export default Layout
+export default Layout;

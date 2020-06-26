@@ -1,10 +1,10 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useEffect } from 'react'
+import { useEffect } from "react";
 
-function useInitPosition (...args: any): void {
-  useEffect(() => {
-    window.scrollTo.apply(null, args)
-  }, [])
+function useInitPosition(...args: any): void {
+    useEffect(() => {
+        window.scrollTo.apply(null, args);
+    }, []);
 }
 
-export default useInitPosition
+export default useInitPosition;
