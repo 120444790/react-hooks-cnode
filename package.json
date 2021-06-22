@@ -1,58 +1,58 @@
 {
-  "name": "react-cnodejs",
-  "homepage": "/cnode",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "@types/jest": "^25.2.1",
-    "@types/node": "^13.13.2",
-    "@types/react": "^16.9.34",
-    "@types/react-dom": "^16.9.6",
-    "@types/react-router-dom": "^5.1.4",
-    "@types/styled-components": "^5.1.0",
-    "axios": "^0.19.2",
-    "github-markdown-css": "^4.0.0",
-    "intersection-observer": "^0.7.0",
-    "prop-types": "^15.7.2",
-    "react": "^16.13.0",
-    "react-content-loader": "^5.0.2",
-    "react-dom": "^16.13.0",
-    "react-redux": "^7.2.0",
-    "react-router-config": "^5.1.1",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
-    "styled-components": "^5.0.1",
-    "timeago.js": "^4.0.2",
-    "typescript": "^3.8.3"
-  },
-  "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
-    "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@babel/helper-validator-identifier": "^7.9.5",
-    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
-    "customize-cra": "^0.9.1",
-    "react-app-rewired": "^2.1.5"
-  }
+    "name": "react-hooks-cnode",
+    "homepage": "/cnode",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.3.2",
+        "@testing-library/user-event": "^7.1.2",
+        "@types/jest": "^25.2.1",
+        "@types/node": "^13.13.2",
+        "@types/react": "^16.9.34",
+        "@types/react-dom": "^16.9.6",
+        "@types/react-router-dom": "^5.1.4",
+        "@types/styled-components": "^5.1.0",
+        "axios": "^0.19.2",
+        "github-markdown-css": "^4.0.0",
+        "intersection-observer": "^0.7.0",
+        "prop-types": "^15.7.2",
+        "react": "^16.13.0",
+        "react-content-loader": "^5.0.2",
+        "react-dom": "^16.13.0",
+        "react-redux": "^7.2.0",
+        "react-router-config": "^5.1.1",
+        "react-router-dom": "^5.1.2",
+        "react-scripts": "3.4.1",
+        "styled-components": "^5.0.1",
+        "timeago.js": "^4.0.2",
+        "typescript": "^3.8.3"
+    },
+    "scripts": {
+        "start": "react-app-rewired start",
+        "build": "react-app-rewired build",
+        "test": "react-app-rewired test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@babel/helper-validator-identifier": "^7.9.5",
+        "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+        "customize-cra": "^0.9.1",
+        "react-app-rewired": "^2.1.5"
+    }
 }
